@@ -20,7 +20,7 @@
 Será integrado ao sistema uma funcionalidade de gerenciamento do recrutamento de novos funcionários. Após entrar no sistema, o entrevistador terá acesso à perguntas que serão aplicadas ao candidato, gerando então um relatório contendo uma avaliação geral.
 
 ### Financeiro
-Sobre o Financeiro
+Sobre o Financeiro 
 
 ### Infraestrutura
 Sobre a infra
